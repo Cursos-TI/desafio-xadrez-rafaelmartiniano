@@ -1,4 +1,4 @@
-♟️ **Desafio de Xadrez - MateCheck**
+♟️ **Desafio de Xadrez - Desafio Programação em C**
 
 Olá, entusiasta de programação e xadrez! Prepare-se para um desafio que testará suas habilidades em C, explorando o uso avançado de estruturas de repetição e funções para simular as complexas movimentações das peças de xadrez.
 
