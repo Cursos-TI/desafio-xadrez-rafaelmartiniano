@@ -1,4 +1,5 @@
 ♟️ **Desafio de Xadrez - MateCheck**
+
 Olá, entusiasta de programação e xadrez! Prepare-se para um desafio que testará suas habilidades em C, explorando o uso avançado de estruturas de repetição e funções para simular as complexas movimentações das peças de xadrez.
 
 Este projeto foi desenhado em três níveis progressivos, levando você de conceitos básicos de loops até a sofisticação da recursividade e condições múltiplas. Seu objetivo é determinar os limites e possibilidades de aplicação do código dentro do jogo, focando na eficiência e legibilidade.
